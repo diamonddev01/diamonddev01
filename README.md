@@ -4,6 +4,7 @@
 - 📫 How to reach me ... email diamond@diamondstudios.dev
 
 ### Discord
+###### Click to join
 [![Join My Discord](https://lanyard-profile-readme.vercel.app/api/632541244035301376)](https://discord.gg/PBPH6nJN4B)
 
 ### Trophies
