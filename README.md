@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ... JS
 - 📫 How to reach me ... email diamond@diamondstudios.dev
 
+### Discord
+[![Join My Discord](https://lanyard-profile-readme.vercel.app/api/632541244035301376)](https://discord.gg/PBPH6nJN4B)
+
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=diamonddev01&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)](https://github-profile-trophy.vercel.app/?username=diamonddev01&theme=onestar&no-bg=false)
 
