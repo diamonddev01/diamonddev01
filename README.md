@@ -14,5 +14,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=diamonddev01&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)](https://github-profile-trophy.vercel.app/?username=diamonddev01&theme=onestar&no-bg=false)
 
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diamonddev01&count_private=true&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diamonddev01&langs_count=5&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diamonddev01&count_private=true&show_icons=true&theme=radical)
