@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+Diamond.)](https://diamondstudios.dev)
+![Views](https://komarev.com/ghpvc/?username=diamonddev01&style=flat-square&color=ff69b4)
+
 - 👋 Hi, I’m @diamonddev01
 - 👀 I’m interested in ... bot development
 - 🌱 I’m currently learning ... JS
