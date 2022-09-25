@@ -15,5 +15,4 @@
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diamonddev01&count_private=true&show_icons=true&theme=radical)
-<br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diamonddev01&langs_count=5&theme=radical)
