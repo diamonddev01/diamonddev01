@@ -2,8 +2,15 @@
 ![Views](https://komarev.com/ghpvc/?username=diamonddev01&style=flat-square&color=ff69b4)
 
 - 👋 Hi, I’m @diamonddev01
-- 👀 I’m interested in ... bot development
-- 🌱 I’m currently learning ... JS
+- 👀 I’m interested in
+    - Game Design
+    - Level Creation
+- 🌱 I’m currently learning
+    - Rust
+    - C#
+- 🌠 Proficient in
+  - Javascript (NodeJS & Deno)
+  - Typescript (NodeJS - Using TSC & Deno)
 - 📫 How to reach me ... email diamond@diamondstudios.dev
 
 ### Discord
