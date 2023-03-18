@@ -14,7 +14,7 @@
 
 ### Discord
 ###### Click to join
-[![Join My Discord](https://lanyard-profile-readme.vercel.app/api/632541244035301376)](https://discord.gg/PBPH6nJN4B)
+[![Join My Discord](https://lanyard-profile-readme.vercel.app/api/632541244035301376)](https://discord.gg/PBPH6nJN4Bhttps://discord.gg/DfrKAN44c7)
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=diamonddev01&theme=onestar&no-bg=false&title=Organizations,Commits,Repositories)](https://github-profile-trophy.vercel.app/?username=diamonddev01&theme=onestar&no-bg=false)
